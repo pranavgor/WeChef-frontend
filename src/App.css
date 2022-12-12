@@ -1,0 +1,35 @@
+@media screen and (max-width: 800px) {
+  div{
+    font-size: 2vw !important;
+  }
+}
+
+@media (max-width: 950px)
+{
+  .tss-1ej321f-MUIDataTableBodyCell-cellHide{
+    display: none !important;
+  }
+
+  .MyBox{
+    margin-top: 10vh;
+    margin-left: 20vw;
+    overflow-x: hidden;
+  }
+
+  img{
+    display: none;
+  }
+
+  button{
+    font-size: 10px !important;
+    width: 20px;
+    padding: 5px !important;
+  }
+  
+}
+
+img{
+    /* height: 10vh !important;
+    width: 10vh !important; */
+    border-radius: 50%;
+  }
